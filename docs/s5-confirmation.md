@@ -47,4 +47,4 @@ permalink: /docs/s5confirmation/
 * Give thrombolysis if corobatory history can establish symptomatic onset < 4.5h ago.  
 * No. Thrombolysis is contraindicated. The scan shows a large subacute infarct involving the entire left MCA territory. Obvious hypodensity > 1/3 of the MCA territory is a contraindication to thrombolysis. Hypodensity of this severity almost always indicates a stroke duration of > 6h at least. It also indicates extensive irreverible infarction and an increased risk of hemorrhage. Treatment should not be given even if the apparent symptom duration is < 4.5h. The pictures illustrate the usual extent of the MCA distribution. Chronic hypodensity due to a remote infarction > 3 months previously is not a contraindication. A competent radiology registrar should have no problem identifying these changes.  Subtle changes reported by the radiologist but usually not visible to casual inspection such as loss of grey white differentiation or sulcal effacement do not contraindicate treatment. Discuss with on-call  neurologist if uncertain. 
 
-![alt text](/img/step5ctbraininfarct.jpg)
+![alt text]({{site.url}}/img/step5ctbraininfarct.jpg)

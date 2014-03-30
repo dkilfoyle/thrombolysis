@@ -38,4 +38,4 @@ permalink: /docs/bleeding/
 * With prompt neurosurgical intervention the prognosis is good
 * No. The prognosis depends on the size and location of the bleeding. Small bleeds often do not alter long term prognosis. Large bleeds such as this unfortunately have a very poor prognosis.
 
-![alt test](complicationsbleedct.jpg) 
+![alt test]({{site.url}}/img/complicationsbleedct.jpg) 
