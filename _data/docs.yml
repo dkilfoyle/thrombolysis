@@ -1,0 +1,29 @@
+- title: Background
+  docs:
+  - background
+  - why
+  - whynot
+  - ptselection
+  - backgroundtest
+
+- title: Pathway
+  docs:
+  - pathway
+  - s1diagnosis
+  - s2initialselection
+  - s3activate
+  - s4criteria
+  - s5confirmation
+  - s6consent
+  - s7administer
+  - s8aftercare
+
+- title: Complications
+  docs:
+  - hypertension
+  - bleeding
+  - anaphylaxis
+
+- title: Conclusion
+  docs:
+  - conclusion

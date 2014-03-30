@@ -1,0 +1,13 @@
+.MCQanswers {
+  padding-top: 20px;
+  min-height: 100px;
+  font-style: italic;
+}
+
+.MCQoptions {
+  padding-top: 10px;
+}
+
+.MCQ label {
+  padding-left: 20px;
+}
