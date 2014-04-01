@@ -26,4 +26,4 @@ Stroke thrombolysis is complex to discuss with patients and families. There are 
 1. Overall the treatment is much more likely to benefit than to harm
 2. Complications can occur unpredictably. ICH is a serious and potentially fatal complication.
 
-You should check if your institution has a patient information sheet. The [pathway document](pathway.pdf) contains an example.
+You should check if your institution has a patient information sheet. The [pathway document]({{site.url}}/resources/pathway.pdf) contains an example.
