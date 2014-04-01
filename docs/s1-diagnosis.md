@@ -8,8 +8,8 @@ permalink: /docs/s1diagnosis/
 
 {::options parse_block_html="true" /}
 <div class="note info">
-1. Are you confident this is a stroke? If not then Stop 
-2. Perform NIHSS (scored neurological examination – Appendix 1, recommended) 
+1. Are you *confident* this is a stroke? If not then **Stop** 
+2. Perform NIHSS (scored neurological examination, recommended) 
 3. General clinical exam (exclude bleeding contraindications) 
 </div>
 
@@ -17,13 +17,15 @@ permalink: /docs/s1diagnosis/
 
 * Acute **focal** neurological deficit
 * Likely vascular in origin, no other explanation
-* Red flags: loss of consciousness, severe or explosive headache
+* Red flags it's not a stroke: loss of consciousness, severe or explosive headache
 
 ### NIHSS 
 
 * Standardized neurological exam for stroke patients
 * Useful in determining if a stroke is of suitable severity to warrant thrombolysis
 * Recommended but not mandatory
+
+![NIHSS]({{site.url}}/img/NIHSS.png)
 
 ### Which of the following patient scenarios *might* be suitable for stroke thrombolysis?
 {: .MCQ}

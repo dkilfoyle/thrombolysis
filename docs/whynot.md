@@ -10,9 +10,10 @@ The most serious potential complication is intracerebral hemorrhage (ICH).
 
 TPA increases the risk of symptomatic ICH from 0.6% to 6%. 
 
-TPA associated hemorrhage is 
+TPA associated hemorrhage is :
+
 * Usually untreatable and may be fatal
 * Difficult to predict and can occur even in optimally selected patients
 
-The risk can be reduced by close protocol adherence. 
+The risk can be reduced by careful patinet selection and close protocol adherence. 
 
