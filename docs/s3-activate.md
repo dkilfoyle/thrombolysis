@@ -10,7 +10,7 @@ permalink: /docs/s3activate/
 <div class="note info">
 1. Make sure FBC, coag (if indicated) and glucose (capillary OK) sent 
 2. Is someone available for consent? 
-3. Request urgent CT – ring ext 3230 
+3. Request urgent CT
 </div>
 
 ### Activate pathway

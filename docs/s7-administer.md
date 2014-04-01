@@ -8,10 +8,10 @@ permalink: /docs/s7administer/
 
 {::options parse_block_html="true" /}
 <div class="note info">
-1. Use alteplase – **do NOT use tenecteplase**
+1. Use **alteplase** – *do NOT use tenecteplase*
 2. Total dose is 0.9mg/kg up to max 90mg – 10% bolus, rest over 60min (see nomogram Appendix 3) 
-3. TPA should be given in a Resus or HDU environment with sufficient monitoring 
-4. See Appendix 5 for recommended nursing orders 
+3. Thrombolysis should be given in a Resus or HDU environment with sufficient monitoring 
+4. Nursing observations q15min during infusion, q30min next 4h, q1h next 4h, q4h next 8h
 5. IMPORTANT: maintain BP < 180/105 (Appendix 4) 
 </div>
 

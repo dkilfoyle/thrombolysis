@@ -13,6 +13,6 @@ permalink: /docs/s4criteria/
 
 ### Inclusion/Exclusion Criteria
 
-* While waiting for CT run through the checklist of the complete inclusion/exclusion criteria
+* While waiting for CT run through the [checklist]({{site.url}}/resources/criteria.pdf) of the complete inclusion/exclusion criteria
 * These include various bleeding risks
 * Also importantly note the BP criteria

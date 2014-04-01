@@ -33,7 +33,7 @@ permalink: /docs/s5confirmation/
  
 * CT Head
 * Correct. CT head in this patient shows a typical hypertensive ICH. Clinical features alone cannot distinguish infarction from hemorrhage. Acute blood is readily and immediately visible on plain CT. 
-* Give TPA immediately
+* Give thrombolysis immediately
 * No. A CT should always be obtained before thrombolysis. Any degree of intracerebral bleeding is a contraindication. Never be tempted to thrombolyse without a CT. The the scanner is unavailable, send the patient to another hospital.
 * Give IV labetolol to lower BP  
 * Not yet. A CT is needed first to determine if the stroke is ischemic or hemorrhagic. 

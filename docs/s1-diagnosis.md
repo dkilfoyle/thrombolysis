@@ -21,11 +21,9 @@ permalink: /docs/s1diagnosis/
 
 ### NIHSS 
 
-* Standardized neurological exam for stroke patients
+* [Standardized neurological exam]({{site.url}}/resources/NIHSS.pdf) for stroke patients
 * Useful in determining if a stroke is of suitable severity to warrant thrombolysis
 * Recommended but not mandatory
-
-![NIHSS]({{site.url}}/img/NIHSS.png)
 
 ### Which of the following patient scenarios *might* be suitable for stroke thrombolysis?
 {: .MCQ}
