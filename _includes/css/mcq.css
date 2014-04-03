@@ -11,4 +11,7 @@
 
 .MCQ label {
   padding-left: 20px;
+  display: inline-block;
+  width: 95%;
+  vertical-align: top;
 }
