@@ -1,0 +1,10 @@
+---
+layout: news_item
+title: 'Update'
+date: 2014-04-11 22:43:48 -0400
+author: dkilfoyle
+version: 1.0.1
+categories: [release]
+---
+
+MCQs should now work in IE8.
