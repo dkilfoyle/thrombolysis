@@ -23,9 +23,6 @@ function convertMCQs() {
 
   $(this).next().remove();
   
-  console.log(qoptions);
-  console.log(qans);
-  
   var mcqid = $(this).attr("id");
   
   var output="<div class='MCQ note'>\n<h5>" + $(this).text() + "</h5>\n<div class='MCQoptions'>\n";
