@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: intro
 title: Patient Selection
 prev_section: whynot
 next_section: backgroundtest

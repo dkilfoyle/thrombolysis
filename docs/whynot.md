@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: intro
 title: Why Not
 prev_section: why
 next_section: ptselection

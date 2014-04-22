@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: intro
 title: Why
 prev_section: background
 next_section: whynot

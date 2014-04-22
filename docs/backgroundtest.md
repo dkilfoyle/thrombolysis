@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: intro
 title: Test
 prev_section: ptselection
 next_section: pathway
