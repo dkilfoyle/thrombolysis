@@ -2,7 +2,7 @@
 layout: cases
 title: Assessment
 prev_section: c1presentation
-next_section: c1presentation
+next_section: c1results
 permalink: /docs/c1assessment/
 ---
 

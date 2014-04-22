@@ -2,8 +2,8 @@
 layout: cases
 title: Results
 prev_section: c1assessment
-next_section: c1presentation
-permalink: /docs/c1assessment/
+next_section: c1decision
+permalink: /docs/c1results/
 ---
 
 The patient was not previously known to have atrial fibrillation and is not taking any anticoagulants.

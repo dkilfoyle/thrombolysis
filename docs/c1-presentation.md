@@ -2,7 +2,7 @@
 layout: cases
 title: Presentation
 prev_section: scenarios
-next_section: c1next
+next_section: c1assessment
 permalink: /docs/c1presentation/
 ---
 
