@@ -1,30 +1,11 @@
-- title: Scenarios
+- title: Case 1
   docs:
-  - Introduction
+  - c1presentation
 
-- title: Scenario1
+- title: Case 2
   docs:
-  - background
-  - why
-  - whynot
-  - ptselection
-  - backgroundtest
+  - c2presentation
 
-- title: Scenario2
+- title: Case 3
   docs:
-  - pathway
-  - s1diagnosis
-  - s2initialselection
-  - s3activate
-  - s4criteria
-  - s5confirmation
-  - s6consent
-  - s7administer
-  - s8aftercare
-
-- title: Scenario3
-  docs:
-  - hypertension
-  - bleeding
-  - anaphylaxis
-
+  - c3presentation
