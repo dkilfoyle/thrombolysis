@@ -1,6 +1,6 @@
 ---
 layout: cases
-title: Results
+title: Outcome
 prev_section: c1decision
 next_section: c2
 permalink: /docs/c1outcome/
