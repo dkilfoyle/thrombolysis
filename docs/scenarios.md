@@ -1,7 +1,7 @@
 ---
 layout: cases
 title: Case Scenarios
-next_section: Case1
+next_section: c1presentation
 permalink: /docs/scenarios/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: cases
-title: Case 2 - Presentation
+title: Presentation
 prev_section: scenarios
 next_section: c1next
 permalink: /docs/c2presentation/
