@@ -1,0 +1,30 @@
+- title: Scenarios
+  docs:
+  - Introduction
+
+- title: Scenario1
+  docs:
+  - background
+  - why
+  - whynot
+  - ptselection
+  - backgroundtest
+
+- title: Scenario2
+  docs:
+  - pathway
+  - s1diagnosis
+  - s2initialselection
+  - s3activate
+  - s4criteria
+  - s5confirmation
+  - s6consent
+  - s7administer
+  - s8aftercare
+
+- title: Scenario3
+  docs:
+  - hypertension
+  - bleeding
+  - anaphylaxis
+
