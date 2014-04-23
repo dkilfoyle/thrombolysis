@@ -12,4 +12,5 @@ Hopefully you have already completed ‘Introduction to stroke thrombolysis'. Th
 You will be required to answer MCQs throughout the scenarios. It is therefore important you read the initial case presentations carefully. Read the feedback carefully.
 
 We hope you enjoy this learning experience!
+
 David Bourke and Dean Kilfoyle
