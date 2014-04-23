@@ -1,10 +1,12 @@
 ---
-layout: cases
+layout: docs
 title: Assessment
 prev_section: c1presentation
 next_section: c1results
 permalink: /docs/c1assessment/
 ---
+
+{% assign datafile = site.data.cases %}
 
 The ED consultant agrees to request the CT Head and you arrive to quickly assess the patient.
 
