@@ -1,10 +1,25 @@
 <div class="docs-nav-mobile unit whole show-on-mobiles">
   <select onchange="if (this.value) window.location.href=this.value">
     <option value="">Navigate the docs…</option>
-    {% for section in site.data.docs %}
-    <optgroup label="{{ section.title }}">
-      {% include docs_option.html items=section.docs %}
-    </optgroup>
-    {% endfor %}
+    {% case page.layout %}
+    {% when 'docs' %}
+        {% for section in site.data.docs %}
+        <optgroup label="{{ section.title }}">
+          {% include docs_option.html items=section.docs %}
+        </optgroup>
+        {% endfor %}
+    {% when 'cases' %}
+        {% for section in site.data.cases %}
+        <optgroup label="{{ section.title }}">
+          {% include docs_option.html items=section.docs %}
+        </optgroup>
+        {% endfor %}
+    {% when 'intro' %}
+        {% for section in site.data.intro %}
+        <optgroup label="{{ section.title }}">
+          {% include docs_option.html items=section.docs %}
+        </optgroup>
+        {% endfor %}
+    {% endcase %}
   </select>
 </div>
