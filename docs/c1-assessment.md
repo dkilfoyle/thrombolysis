@@ -6,8 +6,6 @@ next_section: c1results
 permalink: /docs/c1assessment/
 ---
 
-{{ page.layout }}
-
 The ED consultant agrees to request the CT Head and you arrive to quickly assess the patient.
 
 Ambulance officers and family state she was well up until 730pm when she suddenly stopped talking and slumped over on the couch. They found her unable to move her left side or speak. She has no old notes on the system. FBC and glucose is normal.

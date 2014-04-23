@@ -1,8 +1,21 @@
 <div class="unit one-fifth hide-on-mobiles">
   <aside>
-    {% for section in site.data.cases %}
-    <h4>{{ section.title }}</h4>
-    {% include docs_ul.html items=section.docs %}
-    {% endfor %}
+      {% case page.layout %}
+      {% when 'docs' %}
+            {% for section in site.data.docs %}
+            <h4>{{ section.title }}</h4>
+            {% include docs_ul.html items=section.docs %}
+            {% endfor %}
+      {% when 'cases' %}
+            {% for section in site.data.cases %}
+            <h4>{{ section.title }}</h4>
+            {% include docs_ul.html items=section.docs %}
+            {% endfor %}
+      {% when 'intro' %}
+            {% for section in site.data.intro %}
+            <h4>{{ section.title }}</h4>
+            {% include docs_ul.html items=section.docs %}
+            {% endfor %}
+      {% end case %}
   </aside>
 </div>
