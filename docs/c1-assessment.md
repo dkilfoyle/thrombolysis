@@ -6,9 +6,7 @@ next_section: c1results
 permalink: /docs/c1assessment/
 ---
 
-{% assign datafile = site.data.cases %}
-
-{{ datafile }}
+{{ page.layout }}
 
 The ED consultant agrees to request the CT Head and you arrive to quickly assess the patient.
 
