@@ -25,7 +25,7 @@ Examination:
 {: .MCQ}
   
 * Review the CT with radiology before proceeding	
-* Incorrect. There is still more information required to determine if the patient is a candidate for TPA. Waiting till after the CT is unnecessary as this is still going to take at least 5-10 minutes to be completed.
+* Incorrect. There is more information required to determine if the patient is a candidate for TPA. Waiting till after the CT is unnecessary as this is still going to take at least 5-10 minutes to be completed.
 * Go through the list of contraindications
 * Correct! This is the next step to determine if she is a candidate for thrombolysis. It is important to determine if she is on any anticoagulants given she is in atrial fibrillation. Given the patient is severely dysarthric her family may need to help with the history. Briefly reviewing old clinical notes should also be done and may be the only source of information if there is no one available to provide a history. Your institution should have a policy document listing all contraindications. See [appendix 2]({{site.url}}/resources/pathway.pdf) of the generic pathway document for an example. 
 * Discuss with your consultant
