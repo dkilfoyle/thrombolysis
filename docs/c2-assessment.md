@@ -2,11 +2,11 @@
 layout: cases
 title: Assessment
 prev_section: c2presentation
-next_section: c1next
+next_section: c2outcome
 permalink: /docs/c2assessment/
 ---
 
-YBy the time you arrive Mr C has had his CT head 
+By the time you arrive Mr C has had his CT head 
 
 ![Case 2 CT]({{site.url}}/img/c2ct.jpg)
 
