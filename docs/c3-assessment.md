@@ -13,7 +13,7 @@ The patient and her family consent to IV thrombolysis
 There are no contraindications
 
 ### What should you do next?
-{. MCQ}
+{: .MCQ}
   
 * Administer IV thrombolysis
 * Correct! This patient is a candidate for thrombolysis (reliable time of onset, suitable neurological deficit, acceptable CT, no other contraindications). Treatment initiation should not be delayed.
