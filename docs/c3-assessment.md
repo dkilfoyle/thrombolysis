@@ -3,7 +3,7 @@ layout: cases
 title: Assessment
 prev_section: c3presentation
 next_section: c3progress
-permalink: /docs/c3assessmnet/
+permalink: /docs/c3assessment/
 ---
 
 She is now 45 minutes from the onset of symptoms
