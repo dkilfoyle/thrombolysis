@@ -19,12 +19,9 @@ You review his history:
 * Other history includes hypertension and osteoarthritis
 * Prior to admission he was mobilising with a walker at a rest home and required some help with showering
 
-Examination findings:
-
+**Examination findings:**
 BP 140/90
 HR 75/min in atrial fibrillation
-
-Neurological exam:
 Drowsy, not opening eyes
 Right homonymous hemianopia
 Eyes deviated to left
@@ -32,26 +29,11 @@ Aphasic
 Complete right-sided hemiparesis
 NIHSS = 24
 
-Blood tests
-
+**Blood tests:**
 Haemoglobin 140g/L
 INR 1.7
 Platelets 240
 Creatinine 86
-
-### Is this patient a thrombolysis candidate?
-{: .MCQ}
-	
-* No
-* This patient is contraindicated from thrombolysis.
-* Yes - there are no contraindications
-* No - there are multiple contraindications, the most important being unknown time of onset. Remember, patients do not typically wake up at stroke onset. Patients waking with neurological deficit may have had stroke onset anytime after falling asleep and consequently time of onset should be assumed to be time last seen awake and well.
-* Possibly - need more history about time of onset
-* No. TODO: elaborate
-* Possibly - need to reduce the INR with vitamin K first
-* No. TODO: elaborate
-* Possibly - need to ensure he was independent at the rest home
-* No. TODO: elaborate
 
 ### Does the time of onset in this case contraindicate thrombolysis?
 {: .MCQ}

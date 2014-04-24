@@ -2,7 +2,7 @@
 layout: cases
 title: Outcome
 prev_section: c1decision
-next_section: c2
+next_section: c2presentation
 permalink: /docs/c1outcome/
 ---
 
