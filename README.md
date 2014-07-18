@@ -8,7 +8,7 @@
 You can either email me the text and images or fork your own repository:
 
 1. Sign up for a github account (free) at github.com
-2. Go to github.com/dkilfoyle/thrombolysis and click the "Fork" button (top right)
+2. Go to https://github.com/dkilfoyle/thrombolysis and click the "Fork" button (top right)
 3. You will now have your own copy of the thrombolysis repository
 4. Add files in markdown format in the docs directory - see c1-presentation.md for an example
   * You will need to edit the YAML header (between the '---') to suit your file
