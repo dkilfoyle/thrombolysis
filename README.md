@@ -13,6 +13,15 @@ You can either email me the text and images or fork your own repository:
 4. Add files in markdown format in the docs directory (click the `+` button)
   * see c1-presentation.md for an example
   * You will need to edit the YAML header (between the '---') to suit your file
+
+```---
+layout: cases
+title: Presentation
+prev_section: scenarios
+next_section: c1assessment
+permalink: /docs/c1presentation/
+---```
+
 5. Use the commit changes button at the bottom to save your file
 6. Add the filename of your new file to cases.yml in the _data directory
 7. You should now have a customized website at http://yourusername.github.io/thrombolysis
