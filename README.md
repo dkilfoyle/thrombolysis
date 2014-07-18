@@ -5,7 +5,7 @@
 
 ## Add a case
 
-You can either email the text and images or fork your own repository:
+You can either email me the text and images or fork your own repository:
 
 1. Sign up for a github account (free) at github.com
 2. Go to github.com/dkilfoyle/thrombolysis and click the "Fork" button (top right)
@@ -15,6 +15,7 @@ You can either email the text and images or fork your own repository:
 5. Use the commit changes button at the bottom to save your file
 6. Add the filename of your new file to cases.yml in the _data directory
 7. You should now have a customized website at http://yourusername.github.io/thrombolysis
+8. Use "Pull Requests" to submit your changes back to the dkilfoyle parent repository
 
 ## MCQs
 
