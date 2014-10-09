@@ -15,7 +15,7 @@ You can either email me the text and images or fork your own repository:
   * see c1-presentation.md for an example (open it in raw mode to see the markdown source)
   * You will need to edit the YAML header (between the '---') to suit your file
   * The permalink format is /docs/yourfilenamewithoutextension/ (note the trailing `/`)
-
+ 
   ```
   ---
   layout: cases
