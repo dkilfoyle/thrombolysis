@@ -16,22 +16,22 @@ You can either email me the text and images or fork your own repository:
  * You will need to edit the YAML header (between the '---') to suit your file
  * The permalink format is /docs/yourfilenamewithoutextension/ (note the trailing `/`)
  
-  ```
-  ---
-  layout: cases
-  title: Presentation
-  prev_section: scenarios
-  next_section: c1assessment
-  permalink: /docs/c1presentation/
-  ---
+ ```
+ ---
+ layout: cases
+ title: Presentation
+ prev_section: scenarios
+ next_section: c1assessment
+ permalink: /docs/c1presentation/
+ ---
 ```
 
 5. Use the commit changes button at the bottom to save your file
 6. Add the filename of your new file to cases.yml in the _data directory, eg
 
- ```
- - title: Case 4
-   docs:
+  ```
+  title: Case 4
+  docs:
    - permalink1   <--- where permalink matches your file eg c1presentation above
    - permalink2
    - etc
