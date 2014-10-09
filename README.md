@@ -11,10 +11,10 @@ You can either email me the text and images or fork your own repository:
 2. Go to https://github.com/dkilfoyle/thrombolysis and click the `Fork` button (top right)
 3. You will now have your own copy of the thrombolysis repository
 4. Add files in markdown format in the docs directory (click the `+` button)
-  * Name the file using the input box above the editing area
-  * see c1-presentation.md for an example (open it in raw mode to see the markdown source)
-  * You will need to edit the YAML header (between the '---') to suit your file
-  * The permalink format is /docs/yourfilenamewithoutextension/ (note the trailing `/`)
+ * Name the file using the input box above the editing area
+ * see c1-presentation.md for an example (open it in raw mode to see the markdown source)
+ * You will need to edit the YAML header (between the '---') to suit your file
+ * The permalink format is /docs/yourfilenamewithoutextension/ (note the trailing `/`)
  
   ```
   ---
