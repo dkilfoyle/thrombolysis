@@ -28,7 +28,7 @@ permalink: /docs/s5confirmation/
 	* Established hypodensity consistent with an old infarct is not a contraindication.
 	* These determinations should be obvious to a radiology registrar. If in doubt ask for a consultant radiologist review. 
 
-51 female. Longstanding hypertension on 3 drugs. Woke up, had shower, collapsed walking to kitchen. Drowsy, R) hemiplegia. BP 200/95. What should be the next step?
+### 51 female. Longstanding hypertension on 3 drugs. Woke up, had shower, collapsed walking to kitchen. Drowsy, R) hemiplegia. BP 200/95. What should be the next step?
 {: .MCQ}
  
 * CT Head
@@ -39,7 +39,7 @@ permalink: /docs/s5confirmation/
 * Not yet. A CT is needed first to determine if the stroke is ischemic or hemorrhagic. 
 
 
-45y old smoker. BIB found by neighbour collapsed on kitchen floor. O/E drowsy, mute, right hemiplegia. CT as shown. Which is correct?
+### 45y old smoker. BIB found by neighbour collapsed on kitchen floor. O/E drowsy, mute, right hemiplegia. CT as shown. Which is correct?
 {: .MCQ}
  
 * Thrombolysis is contraindicated
