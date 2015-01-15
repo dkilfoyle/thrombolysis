@@ -15,5 +15,5 @@ TPA associated hemorrhage is :
 * Usually untreatable and may be fatal
 * Difficult to predict and can occur even in optimally selected patients
 
-The risk can be reduced by careful patinet selection and close protocol adherence. 
+The risk can be reduced by careful patient selection and close protocol adherence. 
 
